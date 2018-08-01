@@ -6,8 +6,22 @@ body {
   float: left;
   width: 300px;
   padding: 20px;
+  border: 2px solid darkblue;
+  margin: 10px;
+}
+
+.c1 {
   background-color: #ffcc99;
 }
+
+.c2 {
+  background-color: #99ffcc;
+}
+
+.c3 {
+  background-color: #f2e6ff;
+}
+
 
 h1.title {
   font-family: fantasy;
